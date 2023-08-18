@@ -1,0 +1,22 @@
+{
+  "name": "cryptiker-messenger",
+  "version": "1.0.0",
+  "description": "An end to end encrypted messaging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishirX/cryptiker-messenger.git"
+  },
+  "keywords": [
+    "messenger"
+  ],
+  "author": "Abul Kashem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shishirX/cryptiker-messenger/issues"
+  },
+  "homepage": "https://github.com/shishirX/cryptiker-messenger#readme"
+}
